@@ -1,0 +1,54 @@
+A:.
+│   .env
+│   index.js
+│   package-lock.json
+│   package.json
+│   tree.txt
+│   
+├───.vscode
+│       settings.json
+│       
+├───controllers
+│       index.js
+│       test.controller.js
+│       transaction.controller.js
+│       
+├───database
+│       init.js
+│       Mongo.database.js
+│       Redis.database.js
+│       
+├───dist
+│   │   index.html
+│   │   
+│   └───assets
+│           index-CwuUKspa.css
+│           index-D1t_p7ko.js
+│           nota_logo_1-Dk1eci0O.jpg
+│           nota_logo_2-Ce5LPYVB.jpg
+│           
+├───middlewares
+│       error-handler.js
+│       middleware.js
+│       
+├───models
+│       transaction.model.js
+│           
+├───routes
+│       api.routes.js
+│       index.js
+│       root.routes.js
+│       
+├───seeds
+│       importSeedData.js
+│       transactions.json
+│       
+├───services
+│       index.js
+│       transaction.services.js
+│       
+└───utils
+        config.js
+        for_testing.js
+        logger.js
+        
